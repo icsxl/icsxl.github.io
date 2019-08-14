@@ -3,4 +3,59 @@ Information & Computer Science
 
 <a href="https://ics.xl.ag" class="btn">ICS.XL</a>
 
-<head><link href="thumb/myimages/0088351001563560108.png&amp;w=32" rel="shortcut icon"> <meta charset="utf-8"> <meta name="description" content="ICS.XL Information &amp; Computer Science"> <meta name="keywords" content="ICS.XL"> <title>ICS.XL</title> <link type="text/css" href="/templates/common/css/reset.css" rel="stylesheet"> <link type="text/css" href="/templates/common/css/main.css" rel="stylesheet"> <link type="text/css" href="/templates/theme46/css/style.css" rel="stylesheet"> <link id="own" type="text/css" href="own.css" rel="stylesheet"> <style id="wide">.wide-shape:before{left:-471.5px; width:1903px;} </style> <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> <script src="/templates/common/js/jquery-1.11.2.min.js"> </script> <script src="/templates/common/js/jquery-ui.min.js"> </script> <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=true"> </script> <script src="/templates/common/js/gmaps.js"> </script> <script src="/templates/common/js/site.js"> </script> </head>
+<head>
+<style>
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+</style>
+</head>
+<body>
+
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+  <a href="https://ics.xl.ag/">Home</a>
+  <a href="https://ics.xl.ag/about">About</a>
+  <a href="https://ics.xl.ag/contact">Contact</a>
+  </div>
+</div>
+
+</body>
+</html>
