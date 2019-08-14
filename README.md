@@ -1,6 +1,4 @@
 # <a href="https://icsxl.github.io">icsxl.github.io</a>
-
-## ICS.XL
 Information & Computer Science
 
 <b>Welcome to ICS.XL</b>
