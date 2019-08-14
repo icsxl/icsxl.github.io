@@ -2,7 +2,7 @@
 <div
 align="right" ><img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/>
 </div>
-## ICS.XL
+# ICS.XL
 Information & Computer Science
 
 <b>Welcome to ICS.XL</b>
