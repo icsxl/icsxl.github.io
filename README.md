@@ -17,5 +17,5 @@ For our Website please visit <b><a href="https://ics.xl.ag/" target="_blank">ISC
   <li><b><a href="https://ics.xl.ag/legal" target="_blank">Legal</a></b></li>
   <li><b><a href="https://ics.xl.ag/contact" target="_blank">Contact</a></b></li>
 </ul>
-<img src="http://icsxl.github.io/ics.xl 1.jpg" width="150"/>
+<img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/>
 Copyright © 2019 ICS.XL
