@@ -15,5 +15,4 @@ Information & Computer Science
   <li><b><a href="https://ics.xl.ag/legal" target="_blank">Legal</a></b></li>
   <li><b><a href="https://ics.xl.ag/contact" target="_blank">Contact</a></b></li>
 </ul>
-
 Copyright © 2019 ICS.XL <img src="http://icsxl.github.io/ics.xl 1.jpg" width="100"/>
