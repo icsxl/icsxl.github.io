@@ -1,4 +1,4 @@
-# <a href="https://icsxl.github.io">icsxl.github.io</a></li>
+# <a href="https://icsxl.github.io">icsxl.github.io</a>
 Information & Computer Science
 
 <ul>
