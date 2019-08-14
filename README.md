@@ -1,8 +1,6 @@
 # <a href="https://icsxl.github.io">icsxl.github.io</a>
-<div
-align="right" ><img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/>
-</div>
-# ICS.XL
+<img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/><b>ICS.XL</b>
+
 Information & Computer Science
 
 <b>Welcome to ICS.XL</b>
