@@ -3,8 +3,6 @@ Information & Computer Science
 
 <b>Welcome to ICS.XL</b>
 
-<img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/>
-
 <ul>
   <li><b><a href="https://icsxl.github.io/" target="_blank">Home</a></b></li>
   <li><b><a href="https://ics.xl.ag/about" target="_blank">About</a></b></li>
@@ -16,4 +14,4 @@ Information & Computer Science
   <li><b><a href="https://ics.xl.ag/contact" target="_blank">Contact</a></b></li>
 </ul>
 
-Copyright © 2019 ICS.XL
+Copyright © 2019 ICS.XL <img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/>
