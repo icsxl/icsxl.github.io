@@ -1,6 +1,3 @@
-<link rel="icon" type="image/png" href="https://ics.xl.ag/thumb/myimages/0088351001563560108.png&w=32&h=32">
-
-
 # <a href="https://icsxl.github.io">icsxl.github.io</a>
 Information & Computer Science
 
