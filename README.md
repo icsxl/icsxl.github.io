@@ -1,5 +1,5 @@
 # <a href="https://icsxl.github.io">icsxl.github.io</a>
-<img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/><b>ICS.XL</b>
+<b>ICS.XL</b><img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/>
 
 Information & Computer Science
 
