@@ -1,5 +1,5 @@
 # <a href="https://icsxl.github.io">icsxl.github.io</a>
-<b>ICS.XL</b><img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/>
+<b>ICS.XL</b>
 
 Information & Computer Science
 
@@ -16,4 +16,4 @@ Information & Computer Science
   <li><b><a href="https://ics.xl.ag/contact" target="_blank">Contact</a></b></li>
 </ul>
 
-Copyright © 2019 ICS.XL
+Copyright © 2019 ICS.XL <img src="http://icsxl.github.io/ics.xl 1.jpg" width="50"/>
