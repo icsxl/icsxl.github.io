@@ -5,7 +5,7 @@ Information & Computer Science
 
 This is the repository of ICS.XL
 
-For our Website please visit <b><a href="https://ics.xl.ag/">ISC.XL</a></b>
+For our Website please visit <b><a href="https://ics.xl.ag/" target="_blank">ISC.XL</a></b>
 
 <ul>
   <li><b><a href="https://icsxl.github.io/" target="_blank">Home</a></b></li>
