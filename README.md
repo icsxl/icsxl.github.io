@@ -18,6 +18,6 @@ For our Website please visit <b><a href="https://ics.xl.ag/" target="_blank">ISC
   <li><b><a href="https://ics.xl.ag/contact" target="_blank">Contact</a></b></li>
 </ul>
 
-![alt text](http://icsxl.github.io/ics.xl1.jpg)
+![alt text](http://icsxl.github.io/ics.xl 1.jpg)
 
 Copyright © 2019 ICS.XL
