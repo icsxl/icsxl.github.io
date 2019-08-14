@@ -1,8 +1,7 @@
 # icsxl.github.io
 Information & Computer Science
 
-<a href="https://ics.xl.ag" class="btn">ICS.XL</a>
-
+<html>
 <head>
 <style>
 .dropbtn {
@@ -48,14 +47,19 @@ Information & Computer Science
 </head>
 <body>
 
+<h2>Dropdown Menu</h2>
+<p>Move the mouse over the button to open the dropdown menu.</p>
+
 <div class="dropdown">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
-  <a href="https://ics.xl.ag/">Home</a>
-  <a href="https://ics.xl.ag/about">About</a>
-  <a href="https://ics.xl.ag/contact">Contact</a>
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
   </div>
 </div>
+
+<p><strong>Note:</strong> We use href="#" for test links. In a real web site this would be URLs.</p>
 
 </body>
 </html>
