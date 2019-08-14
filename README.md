@@ -1,3 +1,5 @@
+<img src="http://icsxl.github.io/ics.xl 1.jpg" width="150"/>
+
 # <a href="https://icsxl.github.io">icsxl.github.io</a>
 Information & Computer Science
 
@@ -17,9 +19,5 @@ For our Website please visit <b><a href="https://ics.xl.ag/" target="_blank">ISC
   <li><b><a href="https://ics.xl.ag/legal" target="_blank">Legal</a></b></li>
   <li><b><a href="https://ics.xl.ag/contact" target="_blank">Contact</a></b></li>
 </ul>
-
-![alt text](http://icsxl.github.io/ics.xl 1.jpg)
-
-<img src="http://icsxl.github.io/ics.xl 1.jpg" width="150"/>
 
 Copyright © 2019 ICS.XL
